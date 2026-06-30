@@ -54,9 +54,6 @@
 ---
 
 ### 📊 Estatísticas e Conquistas
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcog&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=A9B2C3&border_radius=10" alt="Linguagens Mais Usadas" width="48%" />
-</div>
 
 <div align="center">
   <br/>
