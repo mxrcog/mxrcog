@@ -54,19 +54,6 @@
 ---
 
 ### 📊 Estatísticas e Conquistas
-
-<div align="center">
-  <!-- Troféus (Conquistas baseadas no seu uso do GitHub) -->
-  <a href="https://github.com/mxrcog">
-    <img src="https://github-profile-trophy.vercel.app/?username=mxrcog&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Troféus GitHub" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Estatísticas Gerais e Linguagens lado a lado (Tema nativo do GitHub Dark) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mxrcog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=A9B2C3&icon_color=2F80ED&border_radius=10&rank_icon=github" alt="Estatísticas do GitHub" width="48%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrcog&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=A9B2C3&border_radius=10" alt="Linguagens Mais Usadas" width="48%" />
 </div>
